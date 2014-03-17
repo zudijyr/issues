@@ -22,9 +22,10 @@ Constructive debate is welcome, but please keep suggestions friendly and in the 
 
 [Please read my Medium post about this campaign](https://medium.com/p/ce7c0dc63aaa) and [make a contribution](http://coleforcongress.com/contribute/) so we can keep it going!
 
-### Required...
 
 ---
+
 PAID FOR BY COLE FOR CONGRESS
+
 ---
 
