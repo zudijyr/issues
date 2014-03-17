@@ -1,4 +1,5 @@
 ---
+permalink: social-security-medicare/
 title: "Protecting Social Security and Medicare"
 layout: page
 ---

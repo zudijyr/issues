@@ -1,4 +1,5 @@
 ---
+permalink: gun-safety/
 title: "Gun Safety: Common sense for our cities and schools"
 layout: page
 ---

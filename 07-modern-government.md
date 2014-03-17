@@ -1,4 +1,5 @@
 ---
+permalink: modernizing-government/
 title: "Modernizing Our Government"
 layout: page
 ---

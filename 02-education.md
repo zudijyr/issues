@@ -1,4 +1,5 @@
 ---
+permalink: education/
 title: "Education: Investing in the Future"
 layout: page
 ---

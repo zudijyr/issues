@@ -1,4 +1,5 @@
 ---
+permalink: economy/
 title: "Economy: A Job for Everyone"
 layout: page
 ---

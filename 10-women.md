@@ -1,9 +1,10 @@
 ---
-title: "Women: Economic Fairness and Quality Health Care"
+permalink: women-families/
+title: "Women and Families: Economic Fairness and Quality Health Care"
 layout: page
 ---
 
-# Women: Economic Fairness and Quality Health Care 
+# Women and Families: Economic Fairness and Quality Health Care
 
 ## Ending Pay Discrimination
 

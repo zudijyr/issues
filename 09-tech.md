@@ -1,4 +1,5 @@
 ---
+permalink: technology/
 title: "Tech Policy: Promoting privacy, freedom, and innovation"
 layout: page
 ---

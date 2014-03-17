@@ -1,4 +1,5 @@
 ---
+permalink: energy-environment/
 title: "Protecting Our Environment and Meeting Tomorrow's Energy Needs"
 layout: page
 ---

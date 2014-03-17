@@ -1,4 +1,5 @@
 ---
+permalink: equality/
 title: "Equality for All"
 layout: page
 ---

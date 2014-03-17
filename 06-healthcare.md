@@ -1,4 +1,5 @@
 ---
+permalink: healthcare/
 title: "Affordable Health Care for All"
 layout: page
 ---
