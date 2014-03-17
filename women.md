@@ -1,3 +1,8 @@
+---
+title: "Women: Economic Fairness and Quality Health Care"
+layout: page
+---
+
 # Women: Economic Fairness and Quality Health Care 
 
 ## Ending Pay Discrimination

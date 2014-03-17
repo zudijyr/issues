@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=yes">
+  <meta charset=utf-8>
+  <title>{% if page.title %}{{page.title}} | {% endif %}{{site.title}}</title>
+  <link rel="shortcut icon" href="{{site.parenturl}}img/favicon.ico" type="image/x-icon">
+  <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+  <link href="{{site.parenturl}}css/fonts.css" rel="stylesheet">
+  <link href="{{site.parenturl}}css/base.css" rel="stylesheet">
+  <link href="{{site.parenturl}}css/style.css" rel="stylesheet">
+  <script src="{{site.parenturl}}js/lib/jquery.js"></script>
+  <script src="{{site.parenturl}}js/lib/jquery.payment.js"></script>
+  <meta property="fb:app_id" content="641261639273477" />
+  <a href="https://plus.google.com/113399812407843618138" rel="publisher" />
+  {{page.head}}
+</head>
+<body class="{{page.class}}">
+
+  {{content}}
+
+  <script src="{{site.parenturl}}js/script.js"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+    ga('create', 'UA-46291930-1', 'coleforcongress.com');
+    ga('send', 'pageview');
+  
+  </script>
+</body>
+</html>

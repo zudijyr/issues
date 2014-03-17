@@ -1,3 +1,7 @@
+---
+title: "Education: Investing in the Future"
+layout: page
+---
 # Education: Investing in the Future
 
 Public school teachers -- at every level, from pre-K to college -- should be rewarded for putting students first. 

@@ -1,4 +1,9 @@
-# Equality
+---
+title: "Equality for All"
+layout: page
+---
+
+# Equality for All
 
 Plain and simple, Dave supports full equality for all citizens, including lesbian, gay, bisexual, and transgender (LGBT) citizens. The federal government needs to act to protect all citizens equally.
 

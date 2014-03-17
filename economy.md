@@ -1,8 +1,13 @@
+---
+title: "Economy: A Job for Everyone"
+layout: page
+---
+
 # Economy: A Job for Everyone
 
 A well-paying job for every job seeker -- that's a fresh start for South Jersey.
 
-Everyone who wants a job should be able to find one. And everyone who works hard should be able to provide for their families. That's how we create a strong middle class, with full employment, and it's the best way to grow our economy, stabilize the federal budget, and reduce the deficit. 
+Everyone who wants a job should be able to find one, and everyone who works hard should be able to provide for their families. That's how we create a strong middle class, with full employment, and it's the best way to grow our economy, stabilize the federal budget, and reduce the deficit. 
 
 New Jersey is leading the way on raising the minimum wage. We'll fight for a raise to the federal minimum wage -- we have to keep our homegrown talent at home, and competitive wages are essential. A national minimum wage increase is the right thing to do for working families, and it decreases the burden on other government assistance programs.
 

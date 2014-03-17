@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<style>{{page.css}}</style>
+<div id="header" class="grid relative pad1x">
+  <div class="col7"><a href="/" id="logo" class=""></a></div>
+  <div id="header-social" class="hide-mobile pad1x">
+    {% include social.html %}
+  </div>
+  <div class="col5 sign-up-container hide-tablet"><div class="sign-up">
+    <h2>Get campaign updates</h2>
+    {% include get-updates.html %}
+  </div></div>
+
+</div>
+<div id="container"><div class="bg">
+  <div id="menu"><div class="grid"><div class="col12">
+    <a class="item" href="/about">About Dave</a><a class="item  hide-mobile" href="/get-involved">Get Involved</a><a class="item  hide-mobile" href="/share-your-story">Share Your Story</a><a class="item {%if page.url == "/"%}active{% endif %}" href="/issues/">Issues</a><a class="item donate" href="/contribute">Contribute</a>
+  </div></div></div>
+  <div class="grid clearfix">
+    <div class="col7 content prose pad1x">
+      {{content}}
+    </div>
+    <div class="margin1 col4 content prose sidebar pad1x">
+      {%if page.url !="/" %}{%include sidebar.html%}{% endif %}
+    </div>
+  </div>
+</div></div>
+{% include footer.html %}

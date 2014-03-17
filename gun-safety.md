@@ -1,3 +1,8 @@
+---
+title: "Gun Safety: Common sense for our cities and schools"
+layout: page
+---
+
 # Gun Safety: Common sense for our cities and schools
 
 Our Constitution provides the foundation for America's gun laws -- we must build on that foundation to ensure our schools are safe and that guns don't end up in the hands of people that shouldn't have them.

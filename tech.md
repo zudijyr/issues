@@ -1,3 +1,8 @@
+---
+title: "Tech Policy: Promoting privacy, freedom, and innovation"
+layout: page
+---
+
 # Tech Policy: Promoting privacy, freedom, and innovation
 
 Congress needs expert voices that will give high-tech innovation a central role in our businesses, our health, and our ability to connect and compete in a global economy.

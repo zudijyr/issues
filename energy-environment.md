@@ -1,3 +1,8 @@
+---
+title: "Protecting Our Environment and Meeting Tomorrow's Energy Needs"
+layout: page
+---
+
 # Protecting Our Environment and Meeting Tomorrow's Energy Needs
 
 Growing up in South Jersey, our natural environment is at the heart of our work, recreation, and daily lives. From the Delaware Bay to the shore towns along the Atlantic Ocean, and through the Pinelands and rivers in-between, we are defined by our unique and beautiful surroundings. We keep the garden in the Garden State.

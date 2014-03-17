@@ -1,3 +1,8 @@
+---
+title: "Modernizing Our Government"
+layout: page
+---
+
 # Modernizing Our Government
 
 As a Senior Technology Advisor at the White House, Dave saw first hand both the challenges and opportunities for modernizing the way government works. There are key areas where Congress can drastically improve the ability of government agencies to better serve citizens:
