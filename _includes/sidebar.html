@@ -27,6 +27,9 @@ div.license {
   background: #91c0eb;
   border-radius: 0;
   }
+.sidebar a.button:hover {
+  color: white; 
+  }
 </style>
 
 <h2>Make a suggestion</h2>
@@ -34,10 +37,10 @@ div.license {
 {% include form.html form="3645382423379705856" %}
 <br>
 <p>Or edit this content directly:</p>
-<p><a class='icon github button' href='http://github.com/mapbox'>Edit on GitHub</a></p>
+<p><a class='icon github button' href='{{page.edit}}'>Edit on GitHub</a></p>
 
 <h2>Support this issue</h2>
-<p>Make a contribution dedicated to it:</p>
+<p>Our campaign is funded by contributions from people like you. If you'd like to see this policy become law, make a contribution to support it now:</p>
 <a class="donate" href="{{site.parenturl}}contribute">Contribute</a>
 
 <h2>Use this content</h2>

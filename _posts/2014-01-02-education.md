@@ -2,6 +2,7 @@
 permalink: education/
 title: "Education: Investing in the Future"
 layout: page
+edit: "https://github.com/coleforcongress/issues/edit/gh-pages/_posts/2014-01-02-education.md"
 ---
 # Education: Investing in the Future
 

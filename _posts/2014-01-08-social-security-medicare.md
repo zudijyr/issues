@@ -2,6 +2,7 @@
 permalink: social-security-medicare/
 title: "Protecting Social Security and Medicare"
 layout: page
+edit: "https://github.com/coleforcongress/issues/edit/gh-pages/_posts/2014-01-08-social-security-medicare.md"
 ---
 
 # Protecting Social Security and Medicare

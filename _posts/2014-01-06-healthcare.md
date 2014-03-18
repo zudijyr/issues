@@ -2,6 +2,7 @@
 permalink: healthcare/
 title: "Affordable Health Care for All"
 layout: page
+edit: "https://github.com/coleforcongress/issues/edit/gh-pages/_posts/2014-01-06-healthcare.md"
 ---
 
 # Affordable Health Care for All

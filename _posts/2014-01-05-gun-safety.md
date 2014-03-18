@@ -2,6 +2,7 @@
 permalink: gun-safety/
 title: "Gun Safety: Common sense for our cities and schools"
 layout: page
+edit: "https://github.com/coleforcongress/issues/edit/gh-pages/_posts/2014-01-05-gun-safety.md"
 ---
 
 # Gun Safety: Common sense for our cities and schools

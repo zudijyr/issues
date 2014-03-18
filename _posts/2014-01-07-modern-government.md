@@ -2,6 +2,7 @@
 permalink: modernizing-government/
 title: "Modernizing Our Government"
 layout: page
+edit: "https://github.com/coleforcongress/issues/edit/gh-pages/_posts/2014-01-07-modern-government.md"
 ---
 
 # Modernizing Our Government

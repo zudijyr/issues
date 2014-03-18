@@ -8,6 +8,6 @@ We need new thinking in Congress to tackle the challenges — at home and across
 
 Learn more about our policy platform in the sections below. If you have suggestions about any of these issues, you can leave your recommendations in our campaign's open collaboration section, by following the link on each issue page.
 
-{% for page in site.pages %}{%if page.title %}
-  - [{{page.title}}]({{site.baseurl}}{{page.url}})
-{% endif %}{% endfor %}
+{% for post in site.posts reversed %}
+  - [{{post.title}}]({{site.baseurl}}{{post.url}})
+{% endfor %}

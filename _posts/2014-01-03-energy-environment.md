@@ -2,6 +2,7 @@
 permalink: energy-environment/
 title: "Protecting Our Environment and Meeting Tomorrow's Energy Needs"
 layout: page
+edit: "https://github.com/coleforcongress/issues/edit/gh-pages/_posts/2014-01-03-energy-environment.md"
 ---
 
 # Protecting Our Environment and Meeting Tomorrow's Energy Needs
