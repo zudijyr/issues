@@ -16,6 +16,9 @@
 .rcon.github:after, .icon.github:before {
   background-position: -1303px 0;
   }
+.rcon.contact:after, .icon.contact:before {
+  background-position: -1184px 0;
+  }
 div.license {
   font-size: .8em;
   }
@@ -26,18 +29,54 @@ div.license {
   color: #303e48;
   background: #91c0eb;
   border-radius: 0;
+  text-align: left;
   }
 .sidebar a.button:hover {
   color: white; 
   }
+.comment-form {
+  margin-bottom: 25px;
+  display: none;
+  }
+.comment-form.active {
+  display: block;
+  }
+a[href="#comment"].active {
+  background-color: #f93348;
+  color: white;
+  }
+#edit-submitform {
+  margin-top: 0 !important;
+  }
+.form-type-textfield {
+  box-sizing: border-box;
+  width: 50% !important;
+  padding-right: 5px !important;
+  float: left;
+  }
+.form-type-textfield label {
+  white-space: nowrap;
+  }
+.form-item-LastName, .form-item-EmailAddress {
+  padding-right: 0 !important;
+  padding-left: 5px !important;
+  }
 </style>
-
+<script>
+  $(function(){
+      $('a[href="#comment"]').click(function() {
+          $('a[href="#comment"], .comment-form').toggleClass('active');
+      });
+  });
+</script>
 <h2>Make a suggestion</h2>
-<p>Submit a comment about this issue:</p>
-{% include form.html form="3645382423379705856" %}
-<br>
+<p>Send us your idea or story:</p>
+<p><a class="icon contact button" href="#comment">Comment</a></p>
+<div class="comment-form">
+  {% include form.html form="-5568700939243618304" %}
+</div>
 <p>Or edit this content directly:</p>
-<p><a class='icon github button' href='{{page.edit}}'>Edit on GitHub</a></p>
+<p><a class="icon github button" href="{{page.edit}}" target="_blank">Edit on GitHub</a></p>
 
 <h2>Support this issue</h2>
 <p>Our campaign is funded by contributions from people like you. If you'd like to see this policy become law, make a contribution to support it now:</p>
