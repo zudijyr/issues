@@ -2,7 +2,7 @@
 
 Issues should be at the heart of any political campaign. These are my positions on the key issues facing our district and our country. They're available hear in an open-source format so anyone can suggest improvements or additions. On my website, http://coleforcongress.com/issues, you can also make a contribution to support a particular position, or submit comments on them.
 
-The textual content (any file ending with a `.md` extension) in this website is freely licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). All other files are released under [the MIT license](http://opensource.org/licenses/MIT), Copyright (c) 2014 Cole for Congress.
+The markdown content (any file ending with a `.md` extension) in this website is freely licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). All other files are released under [the MIT license](http://opensource.org/licenses/MIT), Copyright (c) 2014 Cole for Congress.
 
 ## How this website works
 
@@ -10,7 +10,7 @@ This website is a simple [Jekyll](http://jekyllrb.com/) website hosted on [GitHu
 
 The content may be used freely provided attribution is linked to [Cole for Congress](http://coleforcongress.com).
 
-All position statements are in [markdown files](https://help.github.com/articles/markdown-basics). These are simple text files, and are easy to edit.
+All position statements are in [markdown files](https://help.github.com/articles/markdown-basics) in the [/_posts directory](https://github.com/coleforcongress/issues/tree/gh-pages/_posts). These are simple text files, and are easy to edit.
 
 ## Suggesting changes
 
